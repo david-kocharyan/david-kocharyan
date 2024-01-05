@@ -1,8 +1,7 @@
 ### Hi there 👋 I’m David
 [<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/david-kocharyan/)
 
-I am Full Stack Web Developer, who is looking for new challenges.
-I’m thrilled to have found a profession where my passion for web development is seamlessly merged with my love of problem-solving, and where I will always be learning. I hope that my knowledges can be useful to someone.
+As a software engineer, I work on various projects involving mobile and web applications, restful APIs, AI integrations, and web data scraping. I have 5+ years of experience in Python, Django, Flask, FastAPI, databases, and various AI platforms such as OpenAI, Pinecone, Langchain, HuggingFace, and Cohere. I also have a bachelor's degree in radiophysics and a certification in full stack web development from Prof It Development Company.
 
 ## My Skils
 <p>
