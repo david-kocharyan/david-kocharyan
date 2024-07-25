@@ -1,14 +1,18 @@
 ### Hi there 👋 I’m David
-[<img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/david-kocharyan/)
 
-As a software engineer, I work on various projects involving mobile and web applications, restful APIs, AI integrations, and web data scraping. I have 5+ years of experience in Python, Django, Flask, FastAPI, databases, and various AI platforms such as OpenAI, Pinecone, Langchain, HuggingFace, and Cohere. I also have a bachelor's degree in radiophysics and a certification in full stack web development from Prof It Development Company.
+As a software engineer, I specialize in developing mobile and web applications, RESTful APIs, AI integration, and web data scraping. With over 7 years of experience in Python, I have honed my skills in frameworks such as Django, Flask, and FastAPI, as well as in working with a variety of databases, including MySQL, PostgreSQL, MongoDB and etc...
 
-## My Skils
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastApi-4EA94B?style=for-the-badge&logo=fastApi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+I hold a bachelor's degree in radiophysics. Throughout my career, I have successfully led and contributed to diverse projects, including e-commerce platforms, fintech solutions, marketing analytics tools, and applications for the cryptocurrency and sports betting sectors. I have a proven track record of integrating with popular APIs such as Facebook, LinkedIn, TikTok and others, consistently delivering efficient and scalable solutions tailored to clients' needs.
+
+## My core competencies include:
+
+* Python (Django, Flask, FastAPI)
+* Databases (MySQL, PostgreSQL, SQLite)
+* AI integrations (OpenAI, Pinecone, Langchain, HuggingFace, Cohere)
+* Workflow automation (StackStorm, Apache Airflow)
+* RESTful API development for mobile applications and single-page applications (SPA)
+
+## You can find me on:
+
+- [GitHub as @david-kocharyan (you are here)](https://github.com/david-kocharyan)
+- [LinkedIn](https://www.linkedin.com/in/david-kocharyan/)
