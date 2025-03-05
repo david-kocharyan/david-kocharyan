@@ -9,7 +9,7 @@ I hold a bachelor's degree in radiophysics. Throughout my career, I have success
 * Python (Django, Flask, FastAPI)
 * Databases (MySQL, PostgreSQL, SQLite)
 * AI integrations (OpenAI, Pinecone, Langchain, HuggingFace, Cohere)
-* Workflow automation (StackStorm, Apache Airflow)
+* Workflow automation (StackStorm, Apache Airflow, Kafka, Go:Cadence)
 * RESTful API development for mobile applications and single-page applications (SPA)
 
 ## You can find me on:
