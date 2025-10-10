@@ -1,18 +1,41 @@
-### Hi there 👋 I’m David
+### 👋 Hi, I’m David  
 
-As a software engineer, I specialize in developing mobile and web applications, RESTful APIs, AI integration, and web data scraping. With over 7 years of experience in Python, I have honed my skills in frameworks such as Django, Flask, and FastAPI, as well as in working with a variety of databases, including MySQL, PostgreSQL, MongoDB and etc...
+I’m a **Python-focused software engineer** with 8+ years of experience building **scalable web and mobile apps**, designing **RESTful APIs**, and integrating **AI/LLM solutions**.  
 
-I hold a bachelor's degree in radiophysics. Throughout my career, I have successfully led and contributed to diverse projects, including e-commerce platforms, fintech solutions, marketing analytics tools, and applications for the cryptocurrency and sports betting sectors. I have a proven track record of integrating with popular APIs such as Facebook, LinkedIn, TikTok and others, consistently delivering efficient and scalable solutions tailored to clients' needs.
+I love solving complex problems — from building data pipelines and integrating third-party APIs to deploying cloud-based systems with **AWS**. Skilled in **Django**, **Flask**, and **FastAPI**, I work comfortably across both **SQL** and **NoSQL** databases.  
 
-## My core competencies include:
+I’ve delivered impactful solutions across **e-commerce**, **fintech**, **analytics**, **crypto**, and **sports tech**, with a passion for **automation**, **data engineering**, and **AI-driven applications**.  
 
-* Python (Django, Flask, FastAPI)
-* Databases (MySQL, PostgreSQL, SQLite)
-* AI integrations (OpenAI, Pinecone, Langchain, HuggingFace, Cohere)
-* Workflow automation (StackStorm, Apache Airflow, Kafka, Go:Cadence)
-* RESTful API development for mobile applications and single-page applications (SPA)
+I also enjoy contributing to open source — I’m the creator of [**YoPhonePy**](https://pypi.org/project/yophonepy/), a lightweight Python wrapper for the **YoPhone Bot API**. It simplifies message polling, command handling, media sending, and bot management.  
 
-## You can find me on:
+---
 
-- [GitHub as @david-kocharyan (you are here)](https://github.com/david-kocharyan)
-- [LinkedIn](https://www.linkedin.com/in/david-kocharyan/)
+### ⚙️ Core Skills  
+
+**🐍 Backend Development**  
+Python (Django, Flask, FastAPI)  
+
+**🧠 AI / LLM Integrations**  
+OpenAI, Cohere, LangChain, HuggingFace  
+
+**🔥 Retrieval-Augmented Generation (RAG)**  
+LLMs, pgvector, Pinecone  
+
+**🗃️ Databases**  
+PostgreSQL, MySQL, SQLite, MongoDB  
+
+**🔁 Data Engineering & Workflow Automation**  
+Apache Airflow, Kafka, StackStorm  
+
+---
+
+🎓 **B.Sc. in Radiophysics**  
+
+💼 **Working at [Links Analytics](https://www.linkedin.com/company/links-analytics/)**
+
+---
+
+Let’s connect if you’re working on something exciting — or just want to geek out over **Python and AI**!  
+
+- [**GitHub**](https://github.com/david-kocharyan) - you are here
+- [**LinkedIn**](https://www.linkedin.com/in/david-kocharyan/)  
