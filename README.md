@@ -6,7 +6,8 @@ I love solving complex problems — from building data pipelines and integrating
 
 I’ve delivered impactful solutions across **e-commerce**, **fintech**, **analytics**, **crypto**, and **sports tech**, with a passion for **automation**, **data engineering**, and **AI-driven applications**.  
 
-I also enjoy contributing to open source — I’m the creator of [**YoPhonePy**](https://pypi.org/project/yophonepy/), a lightweight Python wrapper for the **YoPhone Bot API**. It simplifies message polling, command handling, media sending, and bot management.  
+I also enjoy contributing to open source — I’m the creator of [**YoPhonePy**](https://pypi.org/project/yophonepy/), a lightweight Python wrapper for the **YoPhone Bot API**, and a contributor to [**Karrio**](https://github.com/karrioapi/karrio), an open-source shipping and logistics API platform.  
+
 
 ---
 
