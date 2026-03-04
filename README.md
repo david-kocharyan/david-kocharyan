@@ -30,12 +30,6 @@ Apache Airflow, Kafka, StackStorm
 
 ---
 
-🎓 **B.Sc. in Radiophysics**  
-
-💼 **Working at [Links Analytics](https://www.linkedin.com/company/links-analytics/)**
-
----
-
 Let’s connect if you’re working on something exciting — or just want to geek out over **Python and AI**!  
 
 - [**GitHub**](https://github.com/david-kocharyan) - you are here
